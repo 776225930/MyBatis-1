@@ -14,4 +14,5 @@
     #{id}:从传递过来的参数中去除id值 -->
     select id,last_name lastName,email,gender  from tbl_employee where id = #{id}
   </select>
+  
 </mapper>

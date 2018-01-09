@@ -1,4 +1,4 @@
-package com.example.mybatis;
+package com.example.mybatis.bean;
 
 public class Employee {
      private Integer id;

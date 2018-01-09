@@ -11,7 +11,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.example.mybatis.Employee;
+import com.example.mybatis.bean.Employee;
 import com.example.mybatis.dao.EmployeeMapper;
 /**
  * 1、接口式编程
